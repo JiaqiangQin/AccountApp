@@ -1,0 +1,11 @@
+D:\project\Mmm\Mmm\bin\Release\Mmm.exe.config
+D:\project\Mmm\Mmm\obj\x86\Release\Mmm.LineForm.resources
+D:\project\Mmm\Mmm\obj\x86\Release\Mmm.Login.resources
+D:\project\Mmm\Mmm\obj\x86\Release\Mmm.MainForm.resources
+D:\project\Mmm\Mmm\obj\x86\Release\Mmm.Properties.Resources.resources
+D:\project\Mmm\Mmm\obj\x86\Release\Mmm.UserForm.resources
+D:\project\Mmm\Mmm\obj\x86\Release\Mmm.csproj.GenerateResource.Cache
+D:\project\Mmm\Mmm\bin\Release\Mmm.exe
+D:\project\Mmm\Mmm\bin\Release\Mmm.pdb
+D:\project\Mmm\Mmm\obj\x86\Release\Mmm.exe
+D:\project\Mmm\Mmm\obj\x86\Release\Mmm.pdb
